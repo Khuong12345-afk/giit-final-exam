@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Tôi tên là Dương Mạnh Khương.
+Sinh viên ngành CNTT.
+Tôi thích học Git để quản lý dự án.
+Tôi mong muốn trở thành lập trình viên giỏi.
+Tôi sống tại Cà Mau.
+
+Sở thích:
+- Chơi bóng đá
+- Lập trình
+- Du lịch
+
+Kỹ năng:
+- Git cơ bản
+- Lập trình Python
+- Làm việc nhóm
